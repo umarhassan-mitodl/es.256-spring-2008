@@ -28,6 +28,7 @@
     "website": "es-256-the-coming-years-spring-2008"
   },
   "course_title": "The Coming Years",
+  "hide_download": true,
   "course_description": "Explore the future through modeling, reading, and discussion in an open-ended seminar! Our fields of interest will include changes in science and technology, culture and lifestyles, and dominant paradigms and societies.\n",
   "department_numbers": [
     "ES"
@@ -38,6 +39,7 @@
     "content": "0fb899d5-e31f-268d-6b40-712ceef85dac",
     "website": "es-256-the-coming-years-spring-2008"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes",
     "Written Assignments",

@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: This section provides information on the course assignments.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -46,7 +48,7 @@ Techniques in futurology
 {{< tdopen >}}
 
 
-Download and install {{% resource_link "0688b645-fb8c-4785-a2c6-537c7c0a6ef8" "Vensim" %}} for Windows or Mac.
+Download and install [Vensim](http://vensim.com/) for Windows or Mac.
 
 Play with the World3 Model. Use the SynthSim function, the summary page (at the end), and the sliders. Look for conditions that provide for a better Human Welfare Index by 2100.
 
@@ -94,7 +96,7 @@ Catastrophic change, power laws, and fractals
 Disasters and collapses: nuclear war, global warming, peak oil, bioterrorism
 {{< tdclose >}}
 {{< tdopen >}}
-Explore links on the {{% resource_link "2f2d97d2-90cb-4eaa-8d3c-371ebac08aec" "Risks to civilization, humans and planet Earth" %}} Wikipedia article.
+Explore links on the [Risks to civilization, humans and planet Earth](http://en.wikipedia.org/wiki/End_of_civilization) Wikipedia article.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -130,7 +132,7 @@ World changing, revelations, and revolutions
 Future politics
 {{< tdclose >}}
 {{< tdopen >}}
-Excerpts from _Mapping the Global Future_ ({{% resource_link "c5c7cabc-ec6a-4054-bf89-73c6ec55450f" "PDF - 7.3MB" %}}) The Executive Summary, Chapters 1 ("The Contradictions of Globalization") and 2 ("Rising Powers: The Changing Geopolitical Landscape").
+Excerpts from _Mapping the Global Future_ ([PDF - 7.3MB](http://www.dni.gov/files/documents/Global%20Trends_Mapping%20the%20Global%20Future%202020%20Project.pdf)) The Executive Summary, Chapters 1 ("The Contradictions of Globalization") and 2 ("Rising Powers: The Changing Geopolitical Landscape").
 {{< tdclose >}}
 
 {{< trclose >}}
