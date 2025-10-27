@@ -20,14 +20,14 @@ READINGS
 {{< tdclose >}}{{< tdopen >}}
 The recent past and the near future
 {{< tdclose >}}{{< tdopen >}}
-[Top 87 Bad Predictions about the Future](https://www.2spare.com/item_50221.html)
+{{% resource_link "cfebeff8-4925-4a74-ac0c-265e23405b53" "Top 87 Bad Predictions about the Future" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
 {{< tdclose >}}{{< tdopen >}}
 Techniques in futurology
 {{< tdclose >}}{{< tdopen >}}
 
-Meadows, Donella, Jorgen Randers, and Dennis Meadows. *A Synopsis to Limits to Growth: The 30-Year Update*. White River Junction, VT: Chelsea Green, 2004. ISBN: 9781931498586. ([PDF](http://www.liege.mpoc.be/livres/Meadows-Dennis_Limits-to-growth_A-synopsis-28p_2004.pdf))
+Meadows, Donella, Jorgen Randers, and Dennis Meadows. *A Synopsis to Limits to Growth: The 30-Year Update*. White River Junction, VT: Chelsea Green, 2004. ISBN: 9781931498586. ({{% resource_link "1e3371c6-448d-4f56-a3e9-180ecbb0c501" "PDF" %}})
 
 Senge, Peter. M. Chapter 4 and Appendix 2 in *The Fifth Discipline: The Art & Practice of the Learning Organization*. New York, NY: Broadway Business, 2006. ISBN: 9780385517256.
 
@@ -39,7 +39,7 @@ Historigraphic theories: class struggle, cycles, and paradigm shifts
 
 Strauss, W., and N. Howe. "Cycles in History," and "A Fourth Turning Prophesy." Chapters 4 and 10 in *The Fourth Turning*. New York, NY: Broadway Books, 1997. ISBN: 9780767900461.
 
-FutureWatch Timeline ([PDF - 1.1MB](http://www.math.yorku.ca/SCS/Gallery/images/timelines/futureswatch-org.pdf))
+FutureWatch Timeline ({{% resource_link "4b20ee5a-5c05-42f1-9ca3-d3001190658b" "PDF - 1.1MB" %}})
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
@@ -58,23 +58,23 @@ Mason, C. "Running out of Fuel: The Coming Energy Crisis," and "Climate: How Lon
 {{< tdclose >}}{{< tdopen >}}
 The singularity
 {{< tdclose >}}{{< tdopen >}}
-[The Law of Accelerating Returns](https://www.kurzweilai.net/the-law-of-accelerating-returns)
+{{% resource_link "d64fc1ae-e409-4742-bb1c-8864fbeac990" "The Law of Accelerating Returns" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
 {{< tdclose >}}{{< tdopen >}}
 World changing, revelations, and revolutions
 {{< tdclose >}}{{< tdopen >}}
 
-Marx, Karl, and Friedrich Engels. [The Communist Manifesto](http://www.marxists.org/archive/marx/works/1848/communist-manifesto/index.htm). The Communist League, February 21, 1848.
+Marx, Karl, and Friedrich Engels. {{% resource_link "f5dc3dc0-9221-4f9d-a1a9-048c88274960" "The Communist Manifesto" %}}. The Communist League, February 21, 1848.
 
-[Paths Toward an Anti-Capitalist Liberation](http://www.lookingglassnews.org/viewcommentary.php?storyid=101)
+{{% resource_link "edef7f29-5823-4b31-9576-df69087c273c" "Paths Toward an Anti-Capitalist Liberation" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
 {{< tdclose >}}{{< tdopen >}}
 Future politics
 {{< tdclose >}}{{< tdopen >}}
-National Intelligence Council, "The Contradictions of Globalization," and "Rising Powers: The Changing Geopolitical Landscape." Chapters 1 and 2 in *Mapping the Global Future*. Washington, D. C., December 2004. ([PDF - 7.3MB](http://www.dni.gov/files/documents/Global%20Trends_Mapping%20the%20Global%20Future%202020%20Project.pdf))
+National Intelligence Council, "The Contradictions of Globalization," and "Rising Powers: The Changing Geopolitical Landscape." Chapters 1 and 2 in *Mapping the Global Future*. Washington, D. C., December 2004. ({{% resource_link "79af69f8-11f6-46b1-a5f1-8cb7ac5ce729" "PDF - 7.3MB" %}})
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
 {{< tdclose >}}{{< tdopen >}}
