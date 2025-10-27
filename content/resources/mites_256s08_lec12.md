@@ -4,8 +4,6 @@ description: This is a resource file that contains information regarding lecture
 file: /courses/es-256-the-coming-years-spring-2008/53e926ee096395431df781aac68340f5_MITES_256S08_Lec12.pdf
 file_size: 133425
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

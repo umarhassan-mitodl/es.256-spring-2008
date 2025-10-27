@@ -5,8 +5,6 @@ description: This is a resource file that contains information regarding how sup
 file: /courses/es-256-the-coming-years-spring-2008/e4f04127dcc5c96aac77577421493edc_MITES_256S08_assn11.pdf
 file_size: 599924
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
